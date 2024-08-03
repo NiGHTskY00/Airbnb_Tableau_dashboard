@@ -33,7 +33,7 @@ This project analyzes Airbnb listings in New York City using Tableau. The analys
 This project demonstrates the ability to analyze and visualize complex datasets using Tableau. The insights gained can help make informed decisions in the Airbnb market. Explore the dashboard and code in this repository for more detailed analysis.
 
 ## Visuals
-![Dashboard Visual]()
+![Dashboard Visual](https://github.com/NiGHTskY00/Airbnb_Tableau_dashboard/blob/main/Dashboard.png)
 
 ## Repository
 - **Dashboard**: Interactive Tableau dashboard for detailed data exploration.
